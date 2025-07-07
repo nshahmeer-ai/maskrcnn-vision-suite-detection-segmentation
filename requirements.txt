@@ -1,0 +1,10 @@
+# pip install -r requirements.txt
+
+torch>=2.0.0
+torchvision>=0.15.0
+pycocotools>=2.0.6
+Pillow>=9.0.0
+matplotlib>=3.5.0
+opencv-python>=4.5.5
+numpy>=1.21.0
+requests>=2.25.0
